@@ -1,0 +1,17 @@
+{
+    "name": "esteban-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Ang\u00e9lica D\u00edaz"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/esteban-bower.git"
+    },
+    "description": "Esteban font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
